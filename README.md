@@ -30,7 +30,7 @@ This is a simple hobby project which I was really curious about to implement. Th
 **Clone and setup virtual environment**
 
 ```bash
-$ git clone https://github.com/odysseusmax/utube.git
+$ git clone https://github.com/reinierromero147/YouTubeUploader.git
 
 $ cd utube
 
@@ -118,7 +118,7 @@ Here's a YouTube tutorial video for deploying the bot on [Heroku](https://heroku
 
 ### Contact
 
-You can contact me [@odysseusmax](https://telegram.dog/odysseusmax "odysseusmax").
+You can contact me [@ReinierRomero](https://telegram.dog/ReinierRomero "ReinierRomero").
 
 ### License
 
