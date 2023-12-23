@@ -32,7 +32,7 @@ This is a simple hobby project which I was really curious about to implement. Th
 ```bash
 $ git clone https://github.com/reinierromero147/YouTubeUploader.git
 
-$ cd utube
+$ cd YouTubeUploader
 
 $ python3 -m venv venv
 
